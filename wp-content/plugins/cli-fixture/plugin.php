@@ -1,1 +1,1 @@
-plugin v1
+plugin v2

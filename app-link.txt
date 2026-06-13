@@ -1,1 +1,1 @@
-assets/app.txt
+assets/app-v2.txt
