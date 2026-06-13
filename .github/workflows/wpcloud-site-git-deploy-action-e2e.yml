@@ -1,0 +1,21 @@
+name: WP Cloud Site Git Deploy Action E2E
+
+on:
+  push:
+    branches: [main]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: aipokalyptik/wpcloud-site-git-deploy-action@main
+        with:
+          host: ${{ secrets.WPCLOUD_SSH_HOST }}
+          port: ${{ secrets.WPCLOUD_SSH_PORT }}
+          username: ${{ secrets.WPCLOUD_SSH_USERNAME }}
+          password: ${{ secrets.WPCLOUD_SSH_PASSWORD }}
+          docroot: /srv/htdocs
+          deployment-name: gha-cli-test
+          deployment-id: gha-cli-test
+          default-ref: main
+          keep-releases: 3
