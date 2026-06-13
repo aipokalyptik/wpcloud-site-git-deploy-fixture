@@ -1,1 +1,0 @@
-scenario 02 plugin asset with spaces
