@@ -1,0 +1,3 @@
+[submodule "vendor/public-child"]
+	path = vendor/public-child
+	url = https://github.com/aipokalyptik/wpcloud-site-git-deploy-submodule-child.git

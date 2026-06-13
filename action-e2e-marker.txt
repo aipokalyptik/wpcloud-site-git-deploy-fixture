@@ -1,1 +1,1 @@
-scenario 07 removed git lfs usage
+scenario 08 added public nested submodule
