@@ -1,1 +1,1 @@
-scenario 09 removed public nested submodule
+scenario 10 private submodule should fail before promotion
