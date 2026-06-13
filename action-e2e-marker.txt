@@ -1,1 +1,1 @@
-scenario 08 added public nested submodule
+scenario 09 removed public nested submodule
