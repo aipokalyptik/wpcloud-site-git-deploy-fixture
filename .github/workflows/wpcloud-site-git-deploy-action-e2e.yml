@@ -19,5 +19,3 @@ jobs:
           deployment-id: gha-cli-test
           default-ref: main
           keep-releases: 3
-          post-deploy: |
-            false

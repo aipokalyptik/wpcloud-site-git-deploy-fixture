@@ -1,1 +1,1 @@
-scenario 14 post deploy failure after promotion
+scenario 15 recovered after post deploy failure
