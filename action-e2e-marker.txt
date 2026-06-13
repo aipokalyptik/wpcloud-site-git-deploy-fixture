@@ -1,1 +1,1 @@
-scenario 01 changed existing files
+scenario 02 added nested weird paths
