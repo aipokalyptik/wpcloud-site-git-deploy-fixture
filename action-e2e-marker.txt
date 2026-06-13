@@ -1,1 +1,1 @@
-scenario 17 foreign layer overlap should fail
+scenario 18 recovered after foreign layer overlap
