@@ -1,1 +1,1 @@
-scenario 13 recovered after protected anchor failure
+scenario 14 post deploy failure after promotion
