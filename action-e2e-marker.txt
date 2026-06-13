@@ -1,1 +1,1 @@
-scenario 06 added git lfs content
+scenario 07 removed git lfs usage

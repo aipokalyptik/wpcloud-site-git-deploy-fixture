@@ -1,3 +1,1 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:ddc71b6104dbdd2452c8076241b0f1c5686e0042488b1a2736ab6a9c7c5aa589
-size 29
+scenario 07 plain file after lfs removal
