@@ -1,1 +1,1 @@
-scenario 12 protected anchor should fail before promotion
+scenario 13 recovered after protected anchor failure
