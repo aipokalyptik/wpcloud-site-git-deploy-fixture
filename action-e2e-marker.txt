@@ -1,1 +1,1 @@
-scenario 05 added repository symlink
+scenario 06 added git lfs content
