@@ -1,1 +1,1 @@
-scenario 04 swapped file and directory shapes
+scenario 05 added repository symlink
