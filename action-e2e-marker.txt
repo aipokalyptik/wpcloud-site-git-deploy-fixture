@@ -1,1 +1,1 @@
-scenario 11 recovered after private submodule failure
+scenario 12 protected anchor should fail before promotion
