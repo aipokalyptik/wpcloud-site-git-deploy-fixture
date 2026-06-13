@@ -1,1 +1,1 @@
-scenario 03 removed selected paths
+scenario 04 swapped file and directory shapes
