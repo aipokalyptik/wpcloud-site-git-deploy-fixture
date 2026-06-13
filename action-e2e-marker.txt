@@ -1,1 +1,1 @@
-scenario 15 recovered after post deploy failure
+scenario 17 foreign layer overlap should fail
