@@ -1,3 +1,0 @@
-[submodule "vendor/private-submodule"]
-	path = vendor/private-submodule
-	url = https://github.com/aipokalyptik/jippity-private-submodule-fixture.git
