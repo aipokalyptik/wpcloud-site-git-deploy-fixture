@@ -1,3 +1,0 @@
-[submodule "vendor/public-submodule"]
-	path = vendor/public-submodule
-	url = https://github.com/aipokalyptik/jippity-submodule-fixture.git
