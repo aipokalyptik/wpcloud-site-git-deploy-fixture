@@ -1,0 +1,3 @@
+[submodule "modules/layer"]
+	path = modules/layer
+	url = https://github.com/aipokalyptik/wpcloud-site-git-deploy-layer-fixture.git
